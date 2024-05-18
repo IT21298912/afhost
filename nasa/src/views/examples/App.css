@@ -1,0 +1,58 @@
+.presentation-title2 {
+    font-size: 6em;
+    font-weight: 700;
+    margin: 0;
+    color: #ffffff;
+    background: #fbf8ec;
+    background: -moz-linear-gradient(top, #ffffff 35%, #4e6773 100%);
+    background: -webkit-linear-gradient(top, #ffffff 35%, #4e6773 100%);
+    background: -ms-linear-gradient(top, #ffffff 35%, #4e6773 100%);
+    background: linear-gradient(to bottom, #ffffff 35%, #4e6773 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  /* ExamplesNavbar.css */
+
+.navbar-brand-custom {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #fff !important;
+}
+
+.navbar-toggler-custom {
+  border: none;
+  outline: none;
+}
+
+.navbar-toggler-custom .navbar-toggler-bar {
+  background: #fff;
+}
+
+.nav-link-custom {
+  font-size: 1.2rem;
+  color: #fff !important;
+}
+
+.btn-custom {
+  background-color: #ff6b6b;
+  border: none;
+  color: white;
+  font-size: 1.1rem;
+}
+
+.btn-custom:hover {
+  background-color: #ff4757;
+}
+
+.navbar {
+  transition: background-color 0.3s ease;
+}
+
+.navbar-transparent {
+  background-color: transparent !important;
+}
+
+.fixed-top {
+  background-color: #343a40 !important;
+}
